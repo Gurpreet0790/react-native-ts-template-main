@@ -1,0 +1,17 @@
+{
+	"name": "react-native-new-template",
+	"version": "1.0.0",
+	"description": "React Native Typescript Template",
+	"repository": "https://github.com/Gurpreet0790/react-native-ts-template-main.git",
+	"author": "Gurpreet Kaur <gurpreet.dhillon03@gmail.com",
+	"license": "MIT",
+	"keywords": [
+		"react-native",
+		"typescript",
+		"jest",
+		"template",
+		"boilerplate",
+		"react-redux",
+		"redux toolkit"
+	]
+}
